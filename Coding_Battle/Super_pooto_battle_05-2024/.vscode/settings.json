@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "settings.h": "c",
+        "shortestpath.h": "c",
+        "lib.h": "c"
+    }
+}
